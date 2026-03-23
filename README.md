@@ -52,7 +52,7 @@ Média = (NP1 × 4 + NP2 × 4 + PIM × 2) / 10
 
 calculo-media-aluno/
 
-nota.py  
+Exercicios em objetos.py  
 README.md  
 
 ---
